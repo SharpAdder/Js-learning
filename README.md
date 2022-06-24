@@ -12,3 +12,4 @@ This repo is a collection of Js learning mini modules.
 #### [9. DOM manipulation](https://github.com/SharpAdder/Js-learning/blob/main/9.domManipulation.js)
 #### [10. Events intro](https://github.com/SharpAdder/Js-learning/blob/main/10.events.js)
 #### [11. Working with strings](https://github.com/SharpAdder/Js-learning/blob/main/10.strings.js)
+#### [12. Arrays](https://github.com/SharpAdder/Js-learning/blob/main/arrays.js)
