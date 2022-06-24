@@ -13,3 +13,4 @@ This repo is a collection of Js learning mini modules.
 #### [10. Events intro](https://github.com/SharpAdder/Js-learning/blob/main/10.events.js)
 #### [11. Working with strings](https://github.com/SharpAdder/Js-learning/blob/main/10.strings.js)
 #### [12. Arrays](https://github.com/SharpAdder/Js-learning/blob/main/arrays.js)
+#### [13. Events](https://github.com/SharpAdder/Js-learning/blob/main/events.js)
